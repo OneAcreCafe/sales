@@ -1,6 +1,14 @@
 Sales
 =====
 
-I need to know more about the system before writing this page. Currently is there is a server station and a cash register. Orders are taken by hand using shorthand deliniated by boxes drawn around sections of the menu. Orders include a table number and the number of guests. Once an order has been taken, it goes to the order management operator who enters it in and prints two reciepts. One goes to the cook and comes back with the order. The other is saved by the server to give the customers. Once a meal is completed the customer pays at a point-of-sale with credit card and cash drawer.
+The current process is:
 
-I really need more information about the hardware. I'll do reconissance and report back.
+![Serving Process](http://oneacrecafe.github.io/sales/doc/current_process.svg)
+
+1. The server takes the customers' order on paper. The order includes a table number and the size of party.
+2. The server gives the order to an operator who enters it into a NCR P1515 connected to an Epson M244A which prints a reciept and a ticket.
+3. The goes to the kitchen to be filled.
+4. The order comes back with the ticket.
+5. The reciept is given to the customers.
+6. The customers pay at another P1515 with a cash drawer.
+
