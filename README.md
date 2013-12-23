@@ -23,3 +23,5 @@ The process that I like best is:
 4. The server prints a reciept which includes a QR code linking to a page for the meal.
 5. The cutomer pays via a mobile device.
 6. Or the customer pays at the cashier.
+
+It would be nice if the interface was simple enough that a dedicated operator isn't necessary. The use of tablets rather than paper might be a bit too racy for an initial implementation.
